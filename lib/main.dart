@@ -137,6 +137,7 @@ class _LoginPageState extends State<LoginPage> {
                       ),
                     ),
                     focusNode: passwordFocusNode,
+                    obscureText: true,
                   ),
                 ],
               ),
